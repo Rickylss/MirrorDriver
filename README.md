@@ -1,0 +1,1 @@
+The mirror driver sample of WDK (version 7600).
